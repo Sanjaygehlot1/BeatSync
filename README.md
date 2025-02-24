@@ -1,4 +1,4 @@
-// Spotify Clone By Sanjay Gehlot--
+// BEATSYNC -  A Spotify Clone By Sanjay Gehlot--
 
 Make a Folder Named Songs
 Create folders inside the songs folder of your wished name [example= Rajasthani Songs]
